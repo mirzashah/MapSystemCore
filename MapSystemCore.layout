@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="AzimuthalProjection.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="AzimuthalProjection.h" open="1" top="0" tabpos="7">
+		<Cursor position="684" topLine="0" />
+	</File>
+	<File name="Clarke1866Model.h" open="1" top="0" tabpos="8">
+		<Cursor position="454" topLine="0" />
+	</File>
+	<File name="ConicalProjection.h" open="1" top="0" tabpos="9">
+		<Cursor position="467" topLine="0" />
+	</File>
+	<File name="CoordinateTypes.h" open="1" top="0" tabpos="10">
+		<Cursor position="291" topLine="0" />
+	</File>
+	<File name="CylindricalProjection.h" open="1" top="0" tabpos="11">
+		<Cursor position="447" topLine="0" />
+	</File>
+	<File name="DegMinSec.h" open="1" top="0" tabpos="12">
+		<Cursor position="528" topLine="0" />
+	</File>
+	<File name="EquidistantConicProjection.h" open="1" top="0" tabpos="13">
+		<Cursor position="323" topLine="0" />
+	</File>
+	<File name="GnomonicProjection.h" open="1" top="0" tabpos="14">
+		<Cursor position="505" topLine="0" />
+	</File>
+	<File name="GreatCircleRouteHelper.h" open="1" top="0" tabpos="15">
+		<Cursor position="476" topLine="0" />
+	</File>
+	<File name="InternationalModel.h" open="1" top="0" tabpos="16">
+		<Cursor position="332" topLine="0" />
+	</File>
+	<File name="LatLongPoint.h" open="1" top="0" tabpos="17">
+		<Cursor position="280" topLine="0" />
+	</File>
+	<File name="MapSystemCore.h" open="1" top="0" tabpos="18">
+		<Cursor position="284" topLine="0" />
+	</File>
+	<File name="MapSystemEnumerations.h" open="1" top="0" tabpos="19">
+		<Cursor position="224" topLine="0" />
+	</File>
+	<File name="MathFunctions.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="26" topLine="0" />
+	</File>
+	<File name="MathFunctions.h" open="1" top="0" tabpos="3">
+		<Cursor position="299" topLine="0" />
+	</File>
+	<File name="MercatorProjection.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1325" topLine="25" />
+	</File>
+	<File name="MercatorProjection.h" open="1" top="0" tabpos="20">
+		<Cursor position="763" topLine="0" />
+	</File>
+	<File name="OrthographicProjection.h" open="1" top="0" tabpos="21">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="PolarStereographicProjection.h" open="1" top="0" tabpos="22">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Projected2DModel.h" open="1" top="0" tabpos="23">
+		<Cursor position="649" topLine="12" />
+	</File>
+	<File name="StereographicProjection.h" open="1" top="0" tabpos="24">
+		<Cursor position="1046" topLine="3" />
+	</File>
+	<File name="TransverseMercatorProjection.h" open="1" top="0" tabpos="25">
+		<Cursor position="756" topLine="0" />
+	</File>
+	<File name="VerticalPerspectiveProjection.h" open="1" top="0" tabpos="26">
+		<Cursor position="860" topLine="0" />
+	</File>
+	<File name="WGS84Model.h" open="1" top="0" tabpos="27">
+		<Cursor position="449" topLine="0" />
+	</File>
+	<File name="World3DModel.h" open="1" top="0" tabpos="28">
+		<Cursor position="412" topLine="0" />
+	</File>
+	<File name="XYPoint.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="21" />
+	</File>
+	<File name="XYPoint.h" open="1" top="1" tabpos="6">
+		<Cursor position="280" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

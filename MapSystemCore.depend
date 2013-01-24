@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1309402999 source:/home/shah/Source/HelperProjects/MapSystemCore/AzimuthalProjection.cpp
+	<AzimuthalProjection.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//AzimuthalProjection.h
+	<Projected2DModel.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//Projected2DModel.h
+	<CoordinateTypes.h>
+	<MapSystemEnumerations.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//CoordinateTypes.h
+	<DegMinSec.h>
+	<LatLongPoint.h>
+	<XYPoint.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//DegMinSec.h
+	<MapSystemEnumerations.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//MapSystemEnumerations.h
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//LatLongPoint.h
+	<MapSystemEnumerations.h>
+	<DegMinSec.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//XYPoint.h
+	<MapSystemEnumerations.h>
+
+1309402999 source:/home/shah/Source/HelperProjects/MapSystemCore/Clarke1866Model.cpp
+	<Clarke1866Model.h>
+	<cmath>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//Clarke1866Model.h
+	<World3DModel.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//World3DModel.h
+	<CoordinateTypes.h>
+	<MapSystemEnumerations.h>
+
+1309402999 source:/home/shah/Source/HelperProjects/MapSystemCore/ConicalProjection.cpp
+	<ConicalProjection.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//ConicalProjection.h
+	<Projected2DModel.h>
+
+1309402999 source:/home/shah/Source/HelperProjects/MapSystemCore/CylindricalProjection.cpp
+	<CylindricalProjection.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//CylindricalProjection.h
+	<Projected2DModel.h>
+
+1309402999 source:/home/shah/Source/HelperProjects/MapSystemCore/DegMinSec.cpp
+	<DegMinSec.h>
+
+1309402999 source:/home/shah/Source/HelperProjects/MapSystemCore/EquidistantConicProjection.cpp
+	<EquidistantConicProjection.h>
+	<MapSystemEnumerations.h>
+	<MathFunctions.h>
+	<World3DModel.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//EquidistantConicProjection.h
+	<ConicalProjection.h>
+
+1318408715 /home/shah/Source/HelperProjects/MapSystemCore//MathFunctions.h
+	<cmath>
+
+1309402999 source:/home/shah/Source/HelperProjects/MapSystemCore/GnomonicProjection.cpp
+	<GnomonicProjection.h>
+	<MapSystemEnumerations.h>
+	<MathFunctions.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//GnomonicProjection.h
+	<AzimuthalProjection.h>
+	<World3DModel.h>
+
+1309402999 source:/home/shah/Source/HelperProjects/MapSystemCore/GreatCircleRouteHelper.cpp
+	<GreatCircleRouteHelper.h>
+	<GnomonicProjection.h>
+	<WGS84Model.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//GreatCircleRouteHelper.h
+	<CoordinateTypes.h>
+	<GnomonicProjection.h>
+	<vector>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//WGS84Model.h
+	<World3DModel.h>
+
+1309402999 source:/home/shah/Source/HelperProjects/MapSystemCore/InternationalModel.cpp
+	<InternationalModel.h>
+
+1309402999 /home/shah/Source/HelperProjects/MapSystemCore//InternationalModel.h
+	<World3DModel.h>
+
+1309402999 source:/home/shah/Source/HelperProjects/MapSystemCore/LatLongPoint.cpp
+	<LatLongPoint.h>
+	<cmath>
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MapSystemCore" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../Debug/libMapSystemCore" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="Debug" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-D_DEBUG" />
+					<Add option="-D_LIB" />
+					<Add option="-D_CRT_SECURE_NO_DEPRECATE" />
+					<Add option="-W" />
+					<Add option="-g" />
+					<Add option="-O0" />
+					<Add directory="./" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="./" />
+				</ResourceCompiler>
+			</Target>
+			<Target title="Release">
+				<Option output="../Release/libMapSystemCore" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="Release" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_LIB" />
+					<Add option="-W" />
+					<Add directory="./" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="./" />
+				</ResourceCompiler>
+			</Target>
+		</Build>
+		<Unit filename="AzimuthalProjection.cpp" />
+		<Unit filename="AzimuthalProjection.h" />
+		<Unit filename="Clarke1866Model.cpp" />
+		<Unit filename="Clarke1866Model.h" />
+		<Unit filename="ConicalProjection.cpp" />
+		<Unit filename="ConicalProjection.h" />
+		<Unit filename="CoordinateTypes.h" />
+		<Unit filename="CylindricalProjection.cpp" />
+		<Unit filename="CylindricalProjection.h" />
+		<Unit filename="DegMinSec.cpp" />
+		<Unit filename="DegMinSec.h" />
+		<Unit filename="EquidistantConicProjection.cpp" />
+		<Unit filename="EquidistantConicProjection.h" />
+		<Unit filename="GnomonicProjection.cpp" />
+		<Unit filename="GnomonicProjection.h" />
+		<Unit filename="GreatCircleRouteHelper.cpp" />
+		<Unit filename="GreatCircleRouteHelper.h" />
+		<Unit filename="InternationalModel.cpp" />
+		<Unit filename="InternationalModel.h" />
+		<Unit filename="LatLongPoint.cpp" />
+		<Unit filename="LatLongPoint.h" />
+		<Unit filename="MapSystemCore.h" />
+		<Unit filename="MapSystemEnumerations.h" />
+		<Unit filename="MathFunctions.cpp" />
+		<Unit filename="MathFunctions.h" />
+		<Unit filename="MercatorProjection.cpp" />
+		<Unit filename="MercatorProjection.h" />
+		<Unit filename="OrthographicProjection.h" />
+		<Unit filename="PolarStereographicProjection.h" />
+		<Unit filename="Projected2DModel.cpp" />
+		<Unit filename="Projected2DModel.h" />
+		<Unit filename="StereographicProjection.cpp" />
+		<Unit filename="StereographicProjection.h" />
+		<Unit filename="TransverseMercatorProjection.cpp" />
+		<Unit filename="TransverseMercatorProjection.h" />
+		<Unit filename="VerticalPerspectiveProjection.cpp" />
+		<Unit filename="VerticalPerspectiveProjection.h" />
+		<Unit filename="WGS84Model.cpp" />
+		<Unit filename="WGS84Model.h" />
+		<Unit filename="World3DModel.cpp" />
+		<Unit filename="World3DModel.h" />
+		<Unit filename="XYPoint.cpp" />
+		<Unit filename="XYPoint.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
